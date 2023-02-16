@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "eureka.client.service-url.default-zone",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.service-url.default-zone'"
+  },
+  {
+    "name": "eureka.client.fetch-registry",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.fetch-registry'"
+  },
+  {
+    "name": "eureka.client.register-with-eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.register-with-eureka'"
+  },
+  {
+    "name": "spring.cloud.routes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.routes'"
+  },
+  {
+    "name": "spring.cloud.gateway.discovery.corsConfigurations.[/**].allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gateway.discovery.corsConfigurations.[/**].allowed-origins'"
+  },
+  {
+    "name": "spring.cloud.gateway.discovery.corsConfigurations.[/**].allowedMethods",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gateway.discovery.corsConfigurations.[/**].allowedMethods'"
+  }
+]}
